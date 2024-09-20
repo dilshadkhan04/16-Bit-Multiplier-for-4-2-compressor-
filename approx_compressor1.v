@@ -1,6 +1,6 @@
-\\design_1 compressor with approximate compressor 1 from my research paper
+//design_1 compressor with approximate compressor 1 from my research paper
 
-\\MAIN CODE
+//MAIN CODE
 module accurate_mul2(a,b,s);
 supply0 gnd;
 input [7:0]a;
