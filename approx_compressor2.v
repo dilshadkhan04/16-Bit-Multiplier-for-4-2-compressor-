@@ -1,5 +1,5 @@
 //Approximate compressor 2 for my research paper.
-`timescale 1ns / 1ps
+
 
 module approxmuld2(a,b,s);
 supply0 gnd;
