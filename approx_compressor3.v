@@ -245,7 +245,7 @@ module test_bench();
 		end
 		
 		// Calculate NED and NED1
-		NED1 = dis1 / 65536.0;
+		NED1 = dis1 / (65536.0*65025);
 		NED = NED1 / dis_max;
 		$display("Answer :  %f", NED);
 	end
